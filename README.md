@@ -14,8 +14,13 @@ for the following use cases:
 https://github.com/anand2techie/article-repo
 
 # Tech Overview
+* Spring Boot is used as the framework and Java 8 is the Java version used
 * Adopted clean & test-driven design for developing REST APIs for CRUD operations on articles.
 * Adhered to REST API design standards, ensuring right HTTP methods are used with proper response codes.
 * Project structure is laid out with separation of concerns in the first place. Used Hyperlinks/HATEOAS for discoverability.
 * Used H2 as the database; Spring data JPA as repository support
 * Lombok is used for concise-code writing
+* Slf4j for logging
+* Used Postman as collabaration tool for API development
+* Used Swagger for API documentation
+
